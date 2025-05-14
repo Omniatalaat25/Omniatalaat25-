@@ -11,5 +11,5 @@
 ---
 
 ### 💼 My projects:
-🔗 [My Portfolio Website](https://your-portfolio-link.com)  
-🔗 [E-commerce React Project](https://github.com/Omniatalaat25/ecommerce-react)
+🔗 [My Portfolio Website](https://your-portfolio-link.com)  ---> Soooon
+🔗 [E-commerce React Project](https://github.com/Omniatalaat25/ecommerce-react)  ---> Soooon
